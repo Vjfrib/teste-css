@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+   font-size: 20px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+  color: blue;
+  text-align: center;
+  line-height: 1.5;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  text-overflow: ellipsis;
+}
+
+b {
+  font-size: 16px; /* Tamanho da fonte do texto */
+  font-family: inherit; /* Usa a mesma fonte do elemento pai */
+  font-weight: normal; /* Peso normal da fonte (não em negrito) */
+  text-decoration: none; /* Nenhuma decoração de texto (sem sublinhado, linha sobre o texto, etc.) */
+  color: inherit; /* Usa a mesma cor do texto do elemento pai */
+  text-align: left; /* Alinha o texto à esquerda */
+  line-height: normal; /* Altura normal da linha */
+  text-transform: none; /* Transformação de texto padrão (sem alteração de maiúsculas/minúsculas) */
+  letter-spacing: normal; /* Espaçamento normal entre caracteres */
+  word-spacing: normal; /* Espaçamento normal entre palavras */
+  text-shadow: none; /* Nenhuma sombra de texto */
+  text-overflow: clip; /* Texto não é cortado e não mostra reticências quando ultrapassa o espaço disponível */
+}
+
+
