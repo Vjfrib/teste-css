@@ -34,3 +34,9 @@ b {
 }
 
 
+a {
+  background-color: #cafe;
+  color: rgb(255, 225, 225);
+  display: inline-block; /* Ou display: block; para torná-lo um elemento de bloco */
+  padding-left: 10px; /* Definindo o valor do padding */
+}

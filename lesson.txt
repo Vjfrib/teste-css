@@ -1,0 +1,40 @@
+
+/* 
+/* Exemplo de uso de padding e margin em CSS */
+
+.classe-exemplo {
+  /* Padding total: Aplica um padding igual em todas as direções */
+  padding: 20px;
+
+  /* Padding no eixo X: Aplica um padding igual nas direções esquerda e direita (eixo X) */
+  padding-inline: 10px;
+
+  /* Padding no eixo Y: Aplica um padding igual nas direções cima e baixo (eixo Y) */
+  padding-block: 15px;
+
+  /* Padding em direções específicas */
+  padding-top: 5px; /* Padding apenas na direção de cima */
+  padding-right: 10px; /* Padding apenas na direção da direita */
+  padding-bottom: 15px; /* Padding apenas na direção de baixo */
+  padding-left: 20px; /* Padding apenas na direção da esquerda */
+
+  /* Margin total: Aplica uma margem igual em todas as direções */
+  margin: 30px;
+
+  /* Margin no eixo X: Aplica uma margem igual nas direções esquerda e direita (eixo X) */
+  margin-inline: 10px;
+
+  /* Margin no eixo Y: Aplica uma margem igual nas direções cima e baixo (eixo Y) */
+  margin-block: 20px;
+
+  /* Margin em direções específicas */
+  margin-top: 15px; /* Margem apenas na direção de cima */
+  margin-right: 25px; /* Margem apenas na direção da direita */
+  margin-bottom: 35px; /* Margem apenas na direção de baixo */
+  margin-left: 40px; /* Margem apenas na direção da esquerda */
+}
+
+Padding: O padding é o espaçamento interno de um elemento, ou seja, a área entre o conteúdo do elemento e sua borda. Ele define o espaço entre o conteúdo e a borda do elemento. O padding não afeta a posição dos elementos em relação aos elementos vizinhos. Ele é útil para adicionar espaço interno e criar um afastamento entre o conteúdo do elemento e sua borda.
+
+Margin: O margin é o espaçamento externo de um elemento, ou seja, a área fora da borda do elemento. Ele define o espaço entre o elemento e os elementos vizinhos. O margin afeta a posição dos elementos em relação aos elementos vizinhos, empurrando-os para longe ou puxando-os para mais perto. O margin é útil para criar espaçamento entre elementos adjacentes, controlar o espaçamento entre blocos de conteúdo e ajustar a posição dos elementos na página.
+ */
